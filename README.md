@@ -1,7 +1,8 @@
+# AI Tools and Websites
+
 A curated list of AI tools and websites. To filter and edit the list yourself, check out the free notion template here:
 
-
-<a href="https://chatcodetutor.gumroad.com/l/nccpm"><img src="https://public-files.gumroad.com/w1yf2ju5bcv5gu1elwt9rllmurk5" height="500"></a>
+<a href="https://chatcodetutor.gumroad.com/l/nccpm"><img src="https://public-files.gumroad.com/ff16zv2s5vk9xf69p7lfuoiyumpt" height="500"></a>
 
 # AI Tools and Websites
 
